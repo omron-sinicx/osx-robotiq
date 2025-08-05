@@ -19,7 +19,7 @@
   <depend>robotiq_ethercat</depend>
   <depend>roscpp</depend>
   <depend>rospy</depend>
-  <depend>socketcan_interface</depend>
+  <!-- <depend>socketcan_interface</depend> -->
   <depend>std_srvs</depend>
   <depend>robotiq_3f_gripper_articulated_msgs</depend>
 
